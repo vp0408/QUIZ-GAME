@@ -1,4 +1,3 @@
-/* BROUGHT TO YOU BY CODE-PROJECTS .FOR MORE PROJECTS LOG ON TO www.code-projects.org  */
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>
@@ -519,8 +518,7 @@ void help()
     printf("\n >> No negative marking for wrong answers");
 
 	printf("\n\n\t*********************BEST OF LUCK*********************************");
-	printf("\n\n\t*****C PROGRAM QUIZ GAME is developed by CODE WITH C TEAM********");}
-
+	
 void edit_score(float score, char plnm[20])
 	{system("cls");
 	float sc;
